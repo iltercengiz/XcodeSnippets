@@ -1,6 +1,7 @@
 // loadnib
-// 
+// Loads a xib file into its class
 //
+// IDECodeSnippetCompletionPrefix: loadnib
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: 7A1A2E77-EA78-4F5E-9451-C9018CB8FB33
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
