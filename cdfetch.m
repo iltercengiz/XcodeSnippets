@@ -1,3 +1,9 @@
+// cdfetch
+// 
+//
+// IDECodeSnippetIdentifier: 0D0C7083-4DBB-4112-AFE0-D457F49986C0
+// IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
+// IDECodeSnippetUserSnippet: 1
 ---
 title: "Core Data Fetch"
 summary: "Simple Core Data Fetch with Predicate & Sort Descriptor"
