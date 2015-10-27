@@ -1,6 +1,7 @@
 // Check iOS Version
 // 
 //
+// IDECodeSnippetCompletionPrefix: checkversion
 // IDECodeSnippetCompletionScopes: [CodeBlock]
 // IDECodeSnippetIdentifier: FDF6FFAB-9138-4752-A8B7-380931C65F71
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C
